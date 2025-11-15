@@ -1,0 +1,9 @@
+# Material file for example_pyramid.obj
+
+newmtl PyramidMaterial
+Ka 1.0 0.8 0.2
+Kd 1.0 0.6 0.0
+Ks 0.8 0.8 0.8
+Ns 96.0
+d 1.0
+illum 2
