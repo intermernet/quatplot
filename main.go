@@ -400,7 +400,7 @@ const htmlContent = `<!DOCTYPE html>
                 <span></span>
                 <span></span>
             </div>
-            <div id="title">Quaternion 3D Viewer</div>
+            <div id="title">3D Viewer</div>
             <div id="infoToggle" onclick="toggleInfo()">ℹ️</div>
         </div>
         <div id="controls">
